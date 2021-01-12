@@ -1,0 +1,404 @@
+---
+title: "Latent Trait Models under IRT"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## IRT 
+
+```{r}
+library(rstan)
+rstan_options(auto_write = TRUE)
+options(mc.cores = parallel::detectCores())
+library(tm)
+library(assertive.files)
+library(readr)
+library(stopwords)
+library("mice")
+library(ggplot2)
+
+
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
+  library(grid)
+
+  # Make a list from the ... arguments and plotlist
+  plots <- c(list(...), plotlist)
+
+  numPlots = length(plots)
+
+  # If layout is NULL, then use 'cols' to determine layout
+  if (is.null(layout)) {
+    # Make the panel
+    # ncol: Number of columns of plots
+    # nrow: Number of rows needed, calculated from # of cols
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),
+                    ncol = cols, nrow = ceiling(numPlots/cols))
+  }
+
+ if (numPlots==1) {
+    print(plots[[1]])
+
+  } else {
+    # Set up the page
+    grid.newpage()
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))
+
+    # Make each plot, in the correct location
+    for (i in 1:numPlots) {
+      # Get the i,j matrix positions of the regions that contain this subplot
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))
+
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,
+                                      layout.pos.col = matchidx$col))
+    }
+  }
+}
+
+```
+
+
+```{r}
+set.seed(1234)
+vialogues <- read.csv('./data/vialogues.csv')
+user <- read.csv('./data/vialogues_user.csv')
+user <- user[-c(1,3,6),]
+comment <- read.csv('./data/vialogues_comments.csv')
+
+stopwords <- stopwords('en')
+comment_content <- as.vector(comment$body)
+corpus <- Corpus(VectorSource(comment_content))
+processedCorpus <- tm_map(corpus, removePunctuation, ucp=TRUE)
+corprocessedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, stopwords)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+
+N_word <- c()
+for (i in 1:nrow(comment)){
+  content <- processedCorpus[[i]]$content
+  list_content <- strsplit(content,' ')
+  N_word <- c(N_word,length(list_content[[1]]))
+}
+comment$N_word <- N_word
+
+
+response <- as.character(unique(user$id))
+item <- as.character(unique(comment$vialogue_id))
+
+item_response <- matrix(data = 0, nrow = length(response),ncol = length(item))
+row.names(item_response) <-response
+colnames(item_response) <- item
+
+
+for (i in 1:nrow(comment)){
+  item_index = as.character(comment$vialogue_id[i])
+  response_index = as.character(comment$commenter_id[i])
+  if (response_index %in%  response){
+    item_response[response_index,item_index] = item_response[response_index,item_index]  + comment$N_word[i]  
+    #item_response[response_index,item_index] = item_response[response_index,item_index]  + 1  
+  }
+}
+item_response <- as.data.frame(item_response)
+
+## DupER
+
+duplicated_irt <- rbind(item_response,item_response,item_response,item_response,item_response,item_response,item_response,item_response,item_response)
+duplicated_irt_vector = as.vector(t(duplicated_irt))
+miss_indecator <- sample(x = 1:length(duplicated_irt_vector),size = 0.4 * length(duplicated_irt_vector),replace = F)
+duplicated_irt_vector[miss_indecator] <- NA 
+item_response_miss <- matrix(duplicated_irt_vector,byrow = T,nrow = 9 * length(response))
+item_response_miss <- as.data.frame(item_response_miss)
+colnames(item_response) <- colnames(item_response_miss)
+item_response <- rbind(item_response,item_response_miss)
+
+item_response <- as.data.frame(item_response)
+imp <- mice(item_response) # Impute data
+item_response <- complete(imp)
+
+n_item = ncol(item_response)
+n_response = nrow(item_response)
+total_length = ncol(item_response) * nrow(item_response)
+item_response = as.vector(t(item_response))
+item_response <- abs(round(item_response))
+
+vialogues_type <- c(rep(1,14),rep(0,14))
+
+data <- list(n_item = n_item,
+  total_length = total_length,
+  n_response =n_response,
+  item_response = item_response)
+fit <- stan('IRT_ZERO.stan',data=data,iter = 10000)
+fit
+```
+
+```{r}
+library(bayesplot)
+posterior <- as.matrix(fit)
+plot_title <- ggtitle("Posterior distributions",
+                      "with medians and 95% intervals")
+mcmc_intervals(posterior,
+           pars = c("theta[1]","theta[2]","theta[3]","theta[4]","theta[5]","theta[6]","theta[7]","theta[8]","theta[9]","theta[10]",
+           "theta[11]","theta[12]","theta[13]","theta[14]","theta[15]","theta[16]","theta[17]","theta[18]","theta[19]","theta[20]",
+           "theta[21]","theta[22]","theta[23]","theta[24]","theta[25]","theta[26]","theta[27]","theta[28]"),
+           prob = 0.50) + plot_title
+
+
+#hist(item_response,breaks = 100)
+```
+```{r}
+item_response = as.vector(t(item_response))
+item_response <- abs(round(item_response))
+
+library(shinystan)
+ss_mod = as.shinystan(fit)
+launch_shinystan(ss_mod)
+```
+
+
+```{r}
+posterior_b_mean <- extract(fit,pars = c('beta'))$beta
+posterior_b_mean <- colMeans(posterior_b_mean)
+
+posterior_theta_mean <- extract(fit,pars = c('theta'))$theta
+posterior_theta_mean <- colMeans(posterior_theta_mean)[1:28]
+
+posterior_alpha_mean <- extract(fit,pars = c('lambda'))$lambda
+posterior_alpha_mean <- mean(posterior_alpha_mean)
+
+y_rep <- extract(fit,pars = c('item_response_rep'))$item_response_rep 
+y_rep_mean <- colMeans(y_rep)
+
+N_word <- c()
+for (i in 1:nrow(comment)){
+  content <- processedCorpus[[i]]$content
+  list_content <- strsplit(content,' ')
+  N_word <- c(N_word,length(list_content[[1]]))
+}
+comment$N_word <- N_word
+
+
+response <- as.character(unique(user$id))
+item <- as.character(unique(comment$vialogue_id))
+
+item_response <- matrix(data = 0, nrow = length(response),ncol = length(item))
+row.names(item_response) <-response
+colnames(item_response) <- item
+
+
+for (i in 1:nrow(comment)){
+  item_index = as.character(comment$vialogue_id[i])
+  response_index = as.character(comment$commenter_id[i])
+  if (response_index %in%  response){
+    item_response[response_index,item_index] = item_response[response_index,item_index]  + comment$N_word[i]  
+    #item_response[response_index,item_index] = item_response[response_index,item_index]  + 1  
+  }
+}
+item_response <- as.data.frame(item_response)
+
+## DupER
+set.seed(1234)
+duplicated_irt <- rbind(item_response,item_response,item_response,item_response,item_response,item_response,item_response,item_response,item_response)
+duplicated_irt_vector = as.vector(t(duplicated_irt))
+miss_indecator <- sample(x = 1:length(duplicated_irt_vector),size = 0.6 * length(duplicated_irt_vector),replace = F)
+duplicated_irt_vector[duplicated_irt_vector] <- NA 
+item_response_miss <- matrix(duplicated_irt_vector,byrow = T,nrow = 9 * length(response))
+item_response_miss <- as.data.frame(item_response_miss)
+colnames(item_response) <- colnames(item_response_miss)
+item_response <- rbind(item_response,item_response_miss)
+
+item_response <- as.data.frame(item_response)
+imp <- mice(item_response) # Impute data
+item_response <- complete(imp)
+item_response <- abs(round(item_response))
+item_response_redicted <- matrix(y_rep_mean,nrow=nrow(item_response),ncol=ncol(item_response),byrow=T)
+
+
+ 
+```
+
+
+
+```{r}
+plot_list <- list()
+for (i in 1:28){
+      df <- data.frame(theta = posterior_theta_mean,
+                 theorical = (1 - posterior_alpha_mean) * exp(posterior_theta_mean + posterior_b_mean[i]),
+                 real = item_response[1:28,i])
+  plot <- ggplot(df,aes(theta)) + 
+    geom_line( aes(y = theorical)) + 
+    geom_point(aes(y = real)) + 
+    ggtitle(paste("vialogues ",as.character(i))) 
+  plot_list[[i]] <- plot
+}
+multiplot( plot_list[[2]],  plot_list[[4]],
+           plot_list[[6]],  plot_list[[8]],
+           plot_list[[10]],  plot_list[[12]],
+          plot_list[[14]],  plot_list[[16]],
+          plot_list[[18]],  plot_list[[20]],
+          plot_list[[22]],  plot_list[[24]],
+           plot_list[[26]],  plot_list[[28]],cols=3)
+```
+
+
+
+## simulation study
+
+```{r}
+model_fit <- function(dup,del,s,i,phi){
+        
+        theta <- rnorm(s,0,1)
+        beta <- runif(i,5,2)
+        this_parameters <- list(
+          theta = theta,
+          beta = beta
+        )
+        raw_data <- matrix(0,nrow = s,ncol = i)
+        for (a in 1:s){
+          for (b in 1:i){
+            zero <- runif(1,0,1)
+            if (zero <= phi){
+              raw_data[a,b] = 0
+            }else{
+              raw_data[a,b] = rpois(1,exp(theta[a] + beta[b]))
+            }
+          }
+        }
+        raw_data <- as.data.frame(raw_data)
+        
+        duplicated_data <- raw_data
+        for (c in 1:(dup-1)){
+          duplicated_data <- rbind(duplicated_data,raw_data)
+        }
+        duplicated_irt_vector = as.vector(t(duplicated_data))
+        miss_indecator <- sample(x = 1:length(duplicated_irt_vector),size = del * length(duplicated_irt_vector),replace = F)
+        duplicated_irt_vector[miss_indecator] <- NA 
+        item_response_miss <- matrix(duplicated_irt_vector,byrow = T,ncol = i)
+        item_response_miss <- as.data.frame(item_response_miss)
+        colnames(raw_data) <- colnames(item_response_miss)
+        item_response <- rbind(raw_data,item_response_miss)
+
+        imp <- mice(item_response) # Impute data
+        item_response <- complete(imp)
+
+         n_item = ncol(item_response)
+         n_response = nrow(item_response)
+         total_length = ncol(item_response) * nrow(item_response)
+         item_response = as.vector(t(item_response))
+         item_response <- abs(round(item_response))
+
+        data <- list(n_item = n_item,
+        total_length = total_length,
+        n_response =n_response,
+        item_response = item_response)
+        fit <- stan('IRT_ZERO.stan',data=data)
+        result <- list(
+          fit = fit,
+          true_parameters <- this_parameters
+        )
+        return(result)
+}
+```
+
+```{r}
+set.seed(1234)
+results <- list()
+true_parameters <- list()
+Dup_rate <- c(10,15,20)
+Delete_rate <- c(0.2,0.4,0.6)
+sample_size <- c(20,50,100)
+item_length <- c(5,15,30)
+phi <- runif(1,0,1)
+```
+
+```{r}
+indecator = 1
+for (dup in Dup_rate){
+  for (del in Delete_rate){
+    for (s in sample_size){
+      for (i in item_length){
+        result <- model_fit(dup = dup ,del=del,s=s,i=i,phi = phi)
+        name <- paste('model_', as.character(indecator),'.RData',sep = '')
+        save(result,file = name)
+        indecator = indecator + 1
+      }
+    }
+  }
+}
+
+
+```
+
+
+```{r}
+library(shinystan)
+average_standard_deviation <- c()
+average_R_hat <- c()
+average_Bias <- c()
+average_RMSE <- c()
+
+average_standard_deviation_participant <- c()
+average_R_hat_participant <- c()
+average_Bias_participant <- c()
+average_RMSE_participant <- c()
+
+average_standard_deviation_item <- c()
+average_R_hat_item <- c()
+average_Bias_item <- c()
+average_RMSE_item <- c()
+
+indecator = 1
+
+for (dup in Dup_rate){
+  for (del in Delete_rate){
+    for (s in sample_size){
+      for (i in item_length){
+         #name <- paste('model_', as.character(indecator),'.RData',sep = '')
+        # load(name)
+         
+         thetas <- c()
+         for (sample in 1:s){
+           this_theta <- paste('theta[', as.character(sample),']',sep = '')
+           thetas <- c(thetas,this_theta)
+         }
+         betas <- c()
+        for (item in 1:i){
+           this_beta <- paste('beta[', as.character(item),']',sep = '')
+           betas <- c(betas,this_beta,'alpha')
+        }
+         
+         parameters <- c(thetas,betas)
+         
+         
+         average_R_hat <- c(average_R_hat,mean(summary(result$fit)$summary[parameters,'Rhat']))
+         average_standard_deviation <- c(average_R_hat,mean(summary(result$fit)$summary[parameters,'sd']))
+         estimated_value <- summary(result$fit)$summary[parameters,'50%']
+         real_value <- c(result[[2]]$theta,result[[2]]$theta,phi)
+         average_Bias <- c(average_Bias,mean(estimated_value - real_value))
+         average_RMSE <- c(average_RMSE, sqrt(mean((estimated_value - real_value)^2)))
+         
+         average_R_hat_participant <- c(average_R_hat,mean(summary(result$fit)$summary[thetas,'Rhat']))
+         average_standard_deviation_participant <- c(average_R_hat,mean(summary(result$fit)$summary[thetas,'sd']))
+         estimated_value <- summary(result$fit)$summary[thetas,'50%']
+         real_value <- c(result[[2]]$theta)
+         average_Bias_participant <- c(average_Bias,mean(estimated_value - real_value))
+         average_RMSE_participant <- c(average_RMSE, sqrt(mean((estimated_value - real_value)^2)))
+         
+         average_R_hat_item <- c(average_R_hat,mean(summary(result$fit)$summary[betas,'Rhat']))
+         average_standard_deviation_item <- c(average_R_hat,mean(summary(result$fit)$summary[betas,'sd']))
+         estimated_value <- summary(result$fit)$summary[betas,'50%']
+         real_value <- c(result[[2]]$beta)
+         average_Bias_item <- c(average_Bias,mean(estimated_value - real_value))
+         average_RMSE_item <- c(average_RMSE, sqrt(mean((estimated_value - real_value)^2)))
+
+         indecator = indecator + 1
+      }
+    }
+  }
+}
+```
+
+

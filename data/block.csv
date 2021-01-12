@@ -1,0 +1,322 @@
+_id,bgColor,createdAt,deleted,order,removedBy,slug,status,title,updatedAt,userId,workspaceId
+Z4BiKbq2nZBreE44T,"rgb(187,57,121)",2018-07-06T22:23:18.129Z,true,0,,---,public,,2018-07-12T22:58:59.815Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+westriu4rJf4iE8eS,"rgba(92,184,92,1)",2018-08-03T17:10:47.567Z,false,15,,first-project-sept-21st,public,First Project - Sept. 21st,2018-11-17T13:01:07.126Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+zeYCS33cB4u4Xymir,"rgba(230,119,80,1)",2018-08-03T17:12:56.613Z,false,11,,second-project-oct-19th,public,Second Project - Oct. 19th,2018-11-17T13:01:07.115Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+bFLbp53iX3NdsK2Cv,"rgb(39,71,120)",2018-08-03T17:13:36.772Z,false,9,,third-project-nov-16th,public,Third Project - Nov. 16th,2018-11-17T13:01:06.241Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+kg9Fp3NDeegvjSJMe,"rgb(75,107,110)",2018-08-03T17:14:03.586Z,false,6,,december-14-session,public,December 14 Session,2018-11-17T13:01:06.430Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+TCwGTys7m3JwiuWpg,"rgb(14,216,195)",2018-08-16T16:38:04.925Z,false,19,,sept-21-session,public,Sept 21 Session,2018-11-17T13:01:07.137Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+upGG7jmviNB6GHZm6,"rgba(173,167,161,1)",2018-08-16T19:46:23.350Z,false,4,,course-information,public,Course Information,2018-11-17T13:01:05.403Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+Kg4Cq32BtJjwTRZoG,"rgb(60,118,123)",2018-09-04T21:56:38.200Z,false,1,,9718-assignments,public,9.7.18 Assignments,2018-09-04T22:01:19.277Z,chGrQ9PN2YGYWK63Y,aXKHYwtv2g4LYzcf2
+r5xMubSSW3r789NG6,"rgb(209,115,195)",2018-09-04T21:56:32.192Z,false,0,,about-me,public,About Me,2018-09-04T22:01:19.266Z,chGrQ9PN2YGYWK63Y,aXKHYwtv2g4LYzcf2
+rQBNanxqeuuoFoG4b,"rgb(132,134,224)",2018-09-04T22:01:05.398Z,false,2,,91418-assignments,public,9.14.18 Assignments,2018-09-04T22:01:27.473Z,chGrQ9PN2YGYWK63Y,aXKHYwtv2g4LYzcf2
+bRT2npmBRze8ziSd2,"rgb(194,106,40)",2018-09-04T22:01:32.204Z,false,3,,92018-assignments,public,9.20.18 Assignments,2018-09-04T22:01:41.972Z,chGrQ9PN2YGYWK63Y,aXKHYwtv2g4LYzcf2
+qreNxwmXfwFDZdjC7,"rgb(185,231,171)",2018-09-06T03:00:04.729Z,false,0,,about-me,public,About Me,2018-12-02T17:57:08.184Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+RRxE6KtzcyaX4DW2N,"rgb(224,183,86)",2018-09-06T03:01:16.385Z,false,1,,week-1-9718-assignments,public,Week 1 (9.7.18) Assignments,2018-12-02T17:57:09.154Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+HBs35gxrixhEXDgFn,"rgba(177,14,166,1)",2018-09-06T14:55:05.293Z,false,1,,week-1,public,Week 1,2018-09-15T02:50:53.323Z,FhS9YCt3SwFWcefMG,wGZESDkt4YciirXbs
+SztNCqSc8di3HTq82,"rgba(65,81,120,1)",2018-09-06T02:34:27.141Z,false,0,,my-story,public,My Story,2018-09-06T18:09:34.441Z,67z4z89Xw5B495oD2,CS24onTq4r34Kn7Q4
+7WSo7RierGv4DqT46,"rgba(103,145,220,1)",2018-09-06T18:51:10.560Z,false,0,,about-me,public,About Me,2018-12-07T18:46:49.376Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+wZ2o8bD8SNiJWTaTb,"rgba(220,67,32,1)",2018-09-06T18:59:43.861Z,false,0,,bio,public,BIO,2018-11-08T15:35:35.730Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+Z6XXMzHsYTzwcuu7W,"rgba(102,16,153,1)",2018-09-06T19:00:25.088Z,false,1,,9718-assignments,public,9.7.18 Assignments,2018-11-08T15:35:35.782Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+h37phKuaDzXnkgfie,"rgb(64,233,197)",2018-09-06T19:40:36.693Z,true,0,,about-yigu,public,About Yigu,2018-09-06T19:41:37.351Z,sq7SHLAX34wXDZFek,ALqy4xMeEpD3XsYkk
+sNw4aMo74DsBo3sc8,"rgb(205,148,47)",2018-09-06T20:05:40.150Z,true,0,,---,public,,2018-09-06T20:05:44.376Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+4tWnQFs8cqrqto94f,"rgb(11,37,89)",2018-09-06T20:36:12.541Z,false,3,,92118-assignments,public,9.21.18 Assignments,2018-11-08T15:35:35.883Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+D9KCBsAoe2DpXAjPK,"rgba(35,117,153,1)",2018-09-06T20:36:21.964Z,false,2,,91418-assignments,public,9.14.18 Assignments,2018-11-08T15:35:35.833Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+YjkMTqjkrbBns5GfK,"rgb(27,212,53)",2018-09-06T20:36:36.498Z,true,4,,---,public,,2018-09-06T20:36:51.416Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+BCkRL9PXqXZNGsiPZ,"rgba(30,36,85,1)",2018-09-06T20:46:26.687Z,false,8,,10262018-assignments,public,10.26.2018 Assignments,2018-11-08T15:35:35.773Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+oCuTRJm8aAR8mFAmJ,"rgb(125,57,143)",2018-09-06T20:46:54.525Z,true,6,,---,public,,2018-09-06T20:48:25.392Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+d5KHz9HLqjbAoat7N,"rgb(255,230,169)",2018-09-06T20:49:00.635Z,true,4,,notes,public,Notes,2018-09-06T20:49:31.080Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+thbkaWpkEs7P5JZRY,"rgb(244,198,179)",2018-09-06T22:25:17.257Z,true,0,,---,public,,2018-09-06T22:25:31.378Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+bMXQQnKnGPh8piYkK,"rgb(169,47,62)",2018-09-06T22:25:18.587Z,true,1,,---,public,,2018-09-06T22:25:24.299Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+xh2DgqbkEs2Jt4mZa,"rgb(117,74,32)",2018-09-06T22:25:19.837Z,true,2,,---,public,,2018-09-06T22:25:28.482Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+vp6dWhP4zyo9ks9Lz,"rgba(4,144,247,1)",2018-09-06T23:33:46.131Z,false,0,,about-me,public,About me,2018-11-16T00:46:35.081Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+P3KrsG63tKkn2wTbb,"rgb(56,197,212)",2018-09-06T23:53:36.590Z,false,4,,reading-reflections-week-1,public,Reading Reflections Week 1,2018-11-16T00:46:35.094Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+6twL4pDdAjfd37XG5,"rgb(54,119,244)",2018-09-07T00:20:35.480Z,false,0,,about-me,public,About me,2018-11-26T23:05:28.382Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+zsWvzcePcWvFeo54o,"rgb(44,173,209)",2018-09-07T01:50:00.587Z,true,0,kjJYniGziGmt245X8,about-me,public,About me,2018-11-14T05:47:50.766Z,KzoNyARq9Ck6xHWQw,kjJYniGziGmt245X8
+yHEWdoYre6gRh9Qjf,"rgba(119,66,137,1)",2018-09-07T02:01:10.612Z,false,4,,first-project,public,First Project,2018-11-26T20:28:29.890Z,YRMr5ejhtpqiEcoaL,CfPWoJwMZZZhzd5R4
+xbgzCR66cr8m35a5P,"rgba(65,117,5,1)",2018-09-07T02:41:04.688Z,false,0,,about-me,public,About Me,2018-09-07T02:44:22.126Z,kkLmXoFfnTqPXgGq6,NYcwSLypaMk2qbCcA
+wZXauv3ip9F2djWLQ,"rgba(252,104,116,1)",2018-09-07T02:53:10.053Z,false,8,,list-of-student-rhizrs,public,List of Student Rhizrs,2018-11-17T13:01:05.927Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+r6PtHK9xMBRG3d38x,"rgba(195,161,45,1)",2018-09-07T04:29:06.367Z,false,0,,about-me,public,About Me,2018-11-26T20:28:29.733Z,YRMr5ejhtpqiEcoaL,CfPWoJwMZZZhzd5R4
+b2KyN2rNSvoAiDwGY,"rgba(234,95,169,1)",2018-09-07T07:52:45.123Z,false,4,,about-me,public,About Me,2018-11-20T03:23:06.441Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+bAcC3vXyS8pzByquv,"rgba(22,193,169,1)",2018-09-07T07:54:00.284Z,false,0,,first-project,public,First Project,2018-11-20T03:23:06.299Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+Pkq6x8sfoA84rK9nR,"rgba(207,145,198,1)",2018-09-07T07:55:02.443Z,true,2,,91418-assignments,public,9.14.18 Assignments,2018-10-06T03:21:10.936Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+y4EYp4FzXFLjfknLy,"rgba(222,4,133,1)",2018-09-07T07:55:38.046Z,true,3,,92018-assignments,public,9.20.18 Assignments,2018-10-06T03:22:16.039Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+DQ4meMyg3vbKNEFZv,"rgb(113,22,19)",2018-09-07T08:36:19.555Z,false,0,,about-me,public,About Me,2018-11-28T22:02:06.170Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+oqD36ES6S7i4DtMnh,"rgb(156,181,184)",2018-09-07T08:36:49.396Z,false,4,,first-project-921,public,First Project (9.21),2018-11-28T22:02:06.367Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+6eonEu9wpfnmaX7Gj,"rgba(76,59,103,1)",2018-09-07T12:36:11.648Z,false,1,,week-i-reflection,public,Week I - Reflection,2018-09-07T12:40:56.075Z,67z4z89Xw5B495oD2,CS24onTq4r34Kn7Q4
+3EyinQtPASaHYWwNr,"rgb(42,60,48)",2018-09-07T14:30:17.990Z,true,1,,---,public,,2018-09-07T14:31:57.842Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+CzjXjqNoPP6QtfrFz,"rgba(21,156,216,1)",2018-09-07T14:30:20.734Z,false,0,,course-announcements,public,Course Announcements,2018-11-17T13:01:05.387Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+8AjnCs6CNZgz7gj2k,"rgba(72,2,186,1)",2018-09-07T18:01:31.501Z,false,0,,my-video-bio,public,My Video Bio,2018-09-15T02:50:53.014Z,FhS9YCt3SwFWcefMG,wGZESDkt4YciirXbs
+Cvrq3XPdR8Fvnd72a,"rgba(127,163,87,1)",2018-09-07T19:12:36.218Z,true,1,,week1-reflections,public,Week1-Reflections,2018-10-13T03:52:14.666Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+hmmcSh4HBiQrGoiJW,"rgba(26,130,53,1)",2018-09-07T19:41:27.018Z,false,1,,p1-reading-reflection,public,P1 - Reading Reflection,2018-09-26T16:19:59.838Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+TmZnqQkmycRGahFrQ,"rgb(197,177,116)",2018-09-07T19:48:15.493Z,false,0,,something-about-me,public,Something about me...,2018-09-26T16:19:59.826Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+v9RqN8vjReySSHv94,"rgb(95,207,213)",2018-09-07T22:01:19.257Z,true,0,,juye-wang,public,Juye Wang,2018-09-07T22:03:45.598Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+gdPy6xHzjnD879q5C,"rgb(30,250,94)",2018-09-07T22:05:15.626Z,false,0,,about-me,public,About Me,2018-11-15T21:56:00.645Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+d4pa577GpZ95JA8Yk,"rgb(145,77,198)",2018-09-07T22:07:51.868Z,true,2,,mini-project,public,Mini-Project,2018-09-11T21:36:34.498Z,BMgHziq68YQHjyHS8,fb7GPmHRgnwMfXXqf
+3Qfmo295b4LDwrGvt,"rgb(201,8,222)",2018-09-07T22:08:32.936Z,false,6,,assignments,public,Assignments,2018-09-07T22:19:24.080Z,BMgHziq68YQHjyHS8,fb7GPmHRgnwMfXXqf
+TJN4E869McSFyjuLT,"rgb(219,190,41)",2018-09-07T22:08:47.478Z,false,0,,about-me,public,About Me,2018-09-07T22:19:22.818Z,BMgHziq68YQHjyHS8,fb7GPmHRgnwMfXXqf
+QaZthtLRChggTbKmw,"rgb(148,151,64)",2018-09-08T03:04:51.047Z,false,0,,abdul-abad-vialogues-bio,public,Abdul Abad Vialogues Bio,2018-11-08T13:55:32.247Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+GtXRZqdzTQdaSs3Tw,"rgb(19,31,84)",2018-09-08T05:10:46.424Z,false,1,,9718-assignments,public,9.7.18 Assignments,2018-11-08T13:55:32.630Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+SZmX2e6cXLp7Ds6Mk,"rgb(34,139,101)",2018-09-08T05:11:30.382Z,true,2,,,public,,2018-09-08T05:34:47.713Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+BDNxqxZaLuoCJJkp3,"rgb(117,131,247)",2018-09-08T17:57:57.849Z,false,15,,project-1-active-reading,public,Project 1: Active Reading,2018-11-15T21:56:01.310Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+7cj6NC8AozogWoqTu,"rgb(44,136,32)",2018-09-09T05:32:20.224Z,false,0,,hi-all-,public,Hi All !,2018-11-10T01:57:54.420Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+CWZ7JkZQXcLktAmJR,"rgba(246,209,72,1)",2018-09-09T14:51:21.716Z,false,0,,about-me,public,about me,2018-09-09T15:19:31.402Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+cQGZeuFhfnb33MAn8,"rgba(94,152,214,1)",2018-09-09T14:51:28.889Z,false,1,,about-design-thinking,public,about design thinking,2018-09-16T22:36:17.087Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+7FXFb4xBsf7bAoxiL,"rgb(163,128,126)",2018-09-09T15:11:42.097Z,true,2,,---,public,,2018-09-09T15:12:11.476Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+hQdsE7tQCZQZGdCkg,"rgb(55,213,82)",2018-09-09T15:15:36.069Z,true,2,,,public,,2018-09-09T15:16:56.576Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+99ieG5EEQRnGcEDMr,"rgb(59,32,63)",2018-09-09T22:12:14.983Z,false,0,,reflections-weeks-1-5,public,Reflections (Weeks 1-5),2018-10-13T02:06:59.403Z,muYH38EBAz2FHBK2L,6iGSbyGrmvSDQfLX5
+asHcy3a3MqrLEjfYi,"rgb(233,113,219)",2018-09-09T22:13:01.364Z,false,3,,bio-and-misc,public,Bio and Misc.,2018-10-13T02:06:59.425Z,muYH38EBAz2FHBK2L,6iGSbyGrmvSDQfLX5
+NXpz3ToMrdj4MEAaL,"rgb(194,233,221)",2018-09-11T02:18:02.150Z,true,0,,---,public,,2018-09-11T02:18:07.085Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+XsoDYHfhxZgHyZC9g,"rgba(92,184,92,1)",2018-09-11T02:54:14.239Z,false,4,,week-1-assignment,public,Week 1 Assignment,2018-12-09T18:44:59.072Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+2cBDTHp8geET2Eiww,"rgb(88,34,65)",2018-09-11T03:36:30.124Z,false,0,,about-me,public,About Me,2018-09-21T05:24:50.929Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+sY7392Yr7ALeWiMzD,"rgb(243,138,97)",2018-09-11T03:40:38.630Z,false,1,,week-1,public,Week 1,2018-09-21T05:24:50.942Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+xwtxtEpzd9ozXhr7n,"rgba(91,192,222,1)",2018-09-11T03:45:58.966Z,false,0,,about-me,public,About Me,2018-12-09T18:44:59.061Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+njY5JZusZZqRkCqRs,"rgb(133,154,180)",2018-09-11T15:20:32.902Z,false,0,,about-me,public,About me,2018-09-11T15:20:36.641Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+YyikQqrbbd2oMRqvF,"rgba(91,192,222,1)",2018-09-11T16:52:18.752Z,false,0,,week-1-the-project-method-design,public,Week 1 The Project Method & Design,2018-12-04T04:20:10.940Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+8vM98ngf4BHTvDRWL,"rgba(77,79,111,1)",2018-09-11T18:04:10.713Z,false,0,,about-me,public,About Me,2018-11-26T23:32:37.793Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+wLAa7SopjXJmJtmDh,"rgba(105,170,247,1)",2018-09-11T18:18:21.228Z,false,1,,first-project-sept-21st,public,First Project - Sept. 21st,2018-11-26T23:32:37.824Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+k3eS5tSsYkHHiZMCw,"rgb(149,174,182)",2018-09-12T03:20:47.498Z,false,1,,readings,public,Readings,2018-09-12T03:20:52.632Z,kkLmXoFfnTqPXgGq6,NYcwSLypaMk2qbCcA
+oNzwGDvzJtTEKfhxu,"rgba(7,137,173,1)",2018-09-12T13:34:42.205Z,false,8,,reading-reflections-week-2,public,Reading Reflections Week 2,2018-11-16T00:46:35.104Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+AautqQQdpmCqsC9Wf,"rgba(48,18,181,1)",2018-09-12T18:44:56.783Z,false,0,,vialogue,public,Vialogue,2018-09-12T18:47:01.875Z,eYdjdDxtjCy6YRnWx,ZgJbvxsTihep9Bs9X
+g4gisBBHN2FpaeBQ4,"rgb(164,185,236)",2018-09-12T22:36:37.994Z,false,2,,week-2-91418-assignments,public,Week 2 (9.14.18) Assignments,2018-12-02T17:57:09.453Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+zm75HP89yHwZ3yQ2H,"rgb(187,87,22)",2018-09-13T01:55:23.628Z,true,2,,---,public,,2018-09-13T01:55:38.131Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+ZuKAuRP7M4tfmAQNd,"rgb(20,14,169)",2018-09-13T01:55:26.476Z,true,3,,---,public,,2018-09-13T01:55:42.112Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+X6EBBAq4e6N9Xkdxk,"rgb(22,175,183)",2018-09-13T01:55:28.941Z,true,4,,---,public,,2018-09-13T01:55:34.407Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+YMLFSxoT6GpXP2Fwh,"rgba(52,110,84,1)",2018-09-13T12:59:17.225Z,false,0,,about-me,public,About Me,2018-12-05T17:15:13.456Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+Fxze3F8ZA9vnu89Qg,"rgb(69,137,206)",2018-09-13T14:11:46.800Z,false,2,,week-2,public,Week 2,2018-09-21T05:24:50.953Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+BWwgc7u8KC9xhh4JX,"rgb(10,204,167)",2018-09-13T16:24:43.323Z,false,17,,week-1,public,Week 1,2018-12-05T17:15:13.634Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+MRdQXq4D2mZb7arPR,"rgba(11,193,25,1)",2018-09-13T16:24:52.847Z,false,13,,week-2,public,Week 2,2018-12-05T17:15:13.624Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+477nFzToGNxpZZTo3,"rgb(7,119,122)",2018-09-13T18:32:52.640Z,true,2,,week-2,public,Week 2,2018-11-09T06:33:16.516Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+eEnBg3fKX2FjYdpyv,"rgb(234,208,203)",2018-09-13T19:38:49.955Z,true,2,,week-2-online-learning-perspective,public,Week 2 - Online Learning Perspective,2018-09-13T19:41:53.659Z,YRMr5ejhtpqiEcoaL,CfPWoJwMZZZhzd5R4
+EougAWeGSrR7cfySS,"rgb(129,191,186)",2018-09-14T00:34:28.483Z,false,1,,weekly-1,public,Weekly 1,2018-09-18T23:02:14.591Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+gmyLcZEvZgwrEiCna,"rgba(113,197,251,1)",2018-09-08T03:21:38.728Z,true,4,,week-2,public,Week 2,2018-10-11T21:10:15.442Z,fKE2sTfNXxsDMxGg3,TuAmtRWKepNmGqP46
+C8hcGif26Wf2ciCHy,"rgba(0,122,251,1)",2018-09-06T18:01:24.411Z,true,0,,week-1,public,Week 1,2018-10-11T21:11:17.093Z,fKE2sTfNXxsDMxGg3,TuAmtRWKepNmGqP46
+LiQ344ePaq8c6iw8F,"rgba(184,203,255,1)",2018-09-07T19:04:03.959Z,false,1,,video,public,Video,2018-11-01T15:42:05.762Z,fKE2sTfNXxsDMxGg3,TuAmtRWKepNmGqP46
+LbjEy3DZ9g7L3rTjR,"rgb(64,116,153)",2018-09-14T11:18:30.143Z,true,2,,week-2-assignments,public,Week 2 Assignments,2018-10-14T21:46:44.034Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+eckbuEWWwstS3YpZB,"rgb(80,24,20)",2018-09-07T22:08:40.688Z,false,1,,reading-reflection,public,Reading Reflection,2018-09-14T20:05:45.945Z,BMgHziq68YQHjyHS8,fb7GPmHRgnwMfXXqf
+QwqdCyYTvWBFP68rk,"rgb(86,7,232)",2018-09-14T21:48:20.543Z,true,2,,,public,,2018-09-14T21:49:00.473Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+Je9JLya9Bsg2YKMCp,"rgb(56,228,182)",2018-09-10T04:15:41.053Z,true,1,kjJYniGziGmt245X8,reflection-on-readings,public,Reflection on readings,2018-11-14T05:47:50.785Z,KzoNyARq9Ck6xHWQw,kjJYniGziGmt245X8
+fjTDN3xnFD6FKNgcC,"rgb(237,174,226)",2018-09-15T02:50:34.519Z,false,2,,week-2,public,Week 2,2018-09-15T02:50:53.348Z,FhS9YCt3SwFWcefMG,wGZESDkt4YciirXbs
+m7YR47onFzKqmrLqH,"rgba(123,161,79,1)",2018-09-15T02:54:01.012Z,true,2,,week2-reflection,public,Week2-Reflection,2018-10-13T03:54:06.414Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+69X9n9mgBkPAoGfHh,"rgb(215,61,134)",2018-09-06T19:41:06.689Z,false,0,,a-little-about-yigu,public,A Little About Yigu,2018-09-15T03:13:58.874Z,sq7SHLAX34wXDZFek,ALqy4xMeEpD3XsYkk
+6FWwYxaq6cNM9TbBm,"rgba(193,201,55,1)",2018-09-15T04:16:36.355Z,false,8,,week-2-assignment,public,Week 2 Assignment,2018-12-09T18:44:59.082Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+wp28p5kotQQ6dGSDs,"rgba(92,184,92,1)",2018-09-15T17:06:55.604Z,false,8,,week-3-learning,public,Week 3 Learning,2018-12-04T04:20:10.990Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+kbtCvGAMyq4kc6G6P,"rgb(162,220,31)",2018-09-15T18:59:50.472Z,false,2,,91418-assignments,public,9.14.18 Assignments,2018-11-08T13:55:32.659Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+47Z8PHRzmh2EXnhbo,"rgba(207,223,80,1)",2018-09-16T21:41:56.003Z,false,2,,about-information-society,public,about information society,2018-09-16T22:36:09.577Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+JRoZFTCuj4KqCWv2v,"rgb(138,111,142)",2018-09-16T22:21:04.513Z,false,1,,hudk-4011-online,public,HUDK 4011 Online,2018-09-17T01:27:36.790Z,eYdjdDxtjCy6YRnWx,ZgJbvxsTihep9Bs9X
+kddXeXby8GNtWMdCq,"rgb(101,210,21)",2018-09-18T18:42:48.607Z,true,3,,week-3-assignments,public,Week 3 Assignments,2018-10-14T21:48:23.682Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+PhHNwHpiWG36baQih,"rgb(168,178,214)",2018-09-18T23:02:15.733Z,false,2,,week2,public,Week2,2018-09-18T23:02:22.987Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+A36QWm5ZR3yNCDd9F,"rgb(234,243,209)",2018-09-07T00:21:12.061Z,false,1,,reflections,public,Reflections,2018-11-26T23:05:28.401Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+mb2AyZ5CnAPzkaDs7,"rgb(137,165,1)",2018-09-20T00:21:14.029Z,false,3,,91518-assignments,public,9.15.18 Assignments,2018-11-08T13:55:32.684Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+zmCjhoHirzBrSvfjn,"rgb(62,3,84)",2018-09-20T01:57:59.590Z,false,3,,week-3-92018-assignments,public,Week 3 (9.20.18) Assignments,2018-12-02T17:57:09.489Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+pasFAcGYkfABRtNQG,"rgb(206,102,185)",2018-09-20T02:55:18.092Z,false,0,,about-me,public,About me,2018-09-20T02:55:22.611Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+NYfZgoo489oeTabWE,"rgb(185,161,8)",2018-09-20T02:55:28.320Z,false,1,,week-1,public,Week 1,2018-11-06T02:25:54.465Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+72Ez2Wv2XuddRad83,"rgb(124,109,137)",2018-09-20T02:55:42.379Z,false,2,,week-2,public,Week 2,2018-11-06T02:25:59.443Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+p34WqaTurGyGyKveG,"rgb(73,243,141)",2018-09-20T02:55:48.616Z,false,3,,week-3,public,Week 3,2018-11-06T02:26:05.606Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+apxgvm28kSSfGdeYn,"rgb(159,49,233)",2018-09-20T05:39:07.916Z,true,2,,week-3,public,Week 3,2018-11-09T06:38:18.839Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+95jrgomLzr8mnT4q4,"rgba(218,180,93,1)",2018-09-20T14:52:49.510Z,false,3,,necessity-of-networked-learning,public,necessity of Networked learning?,2018-09-20T14:53:28.300Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+7CvcEMaq72a2v99cs,"rgba(226,176,100,1)",2018-09-20T15:14:33.412Z,false,4,,structure-of-network,public,structure of network,2018-10-19T00:36:27.777Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+Jqi7oaruK9D4qgFw9,"rgb(77,184,118)",2018-09-20T20:07:50.395Z,false,12,,reading-reflections-week-3,public,Reading Reflections Week 3,2018-11-16T00:46:35.114Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+5ipDXepQtG5yk5L3E,"rgba(230,119,80,1)",2018-09-21T00:24:57.588Z,false,12,,week-3-assignment,public,Week 3 Assignment,2018-12-09T18:44:59.092Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+jucYnP7TjvmEd2aBC,"rgba(43,108,236,1)",2018-09-21T02:34:01.282Z,true,8,,week-3,public,Week 3,2018-10-11T21:09:50.712Z,fKE2sTfNXxsDMxGg3,TuAmtRWKepNmGqP46
+Bessaz4q4FoJY9Hbf,"rgba(130,166,73,1)",2018-09-21T02:51:24.477Z,true,3,,week3-reflection,public,Week3-Reflection,2018-10-13T03:54:40.906Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+RCyCemKsn4bXX8D9A,"rgb(115,245,212)",2018-09-21T03:43:50.011Z,false,9,,week-3,public,Week 3,2018-12-05T17:15:13.611Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+NoFfthkwZ5kqhpkij,"rgb(0,43,217)",2018-09-21T04:43:16.970Z,false,3,,week-3,public,Week 3,2018-09-21T05:24:56.623Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+h5CctEWovHByZdfCX,"rgb(37,207,251)",2018-09-24T16:02:24.743Z,true,2,,---,public,,2018-09-24T16:02:30.847Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+du4QyuCbF9t7n5EWe,"rgb(103,49,207)",2018-09-24T16:02:26.290Z,true,3,,---,public,,2018-09-24T16:02:34.560Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+jxQSGNYfvXzegpCRD,"rgb(137,194,54)",2018-09-24T17:07:29.217Z,false,4,,week-4-92818-assignments,public,Week 4 (9.28.18) Assignments,2018-12-02T17:57:08.504Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+Zm52mDuQPFZ6A3i42,"rgb(112,215,189)",2018-09-26T16:18:04.971Z,false,2,,p2-reading-reflection,public,P2 - Reading Reflection,2018-09-26T16:19:59.852Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+FQx8LKom8etMCTgbJ,"rgb(225,18,54)",2018-09-26T16:55:41.527Z,false,3,,week3,public,Week3,2018-09-26T16:55:48.330Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+bzY9p79JioQ8WefkS,"rgb(194,248,81)",2018-09-26T23:26:17.905Z,false,1,,reading-reflections-week-4,public,Reading Reflections Week 4,2018-11-16T00:46:35.130Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+CJ3KsAgTjbn2rQwKJ,"rgb(230,108,139)",2018-09-27T15:22:42.219Z,false,4,,9282018-assignment,public,9.28.2018 Assignment,2018-11-08T15:35:35.750Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+LEoEcKCdyJaTWRzrp,"rgb(105,166,209)",2018-09-27T19:40:15.853Z,false,1,,second-project,public,Second Project,2018-11-26T20:28:29.908Z,YRMr5ejhtpqiEcoaL,CfPWoJwMZZZhzd5R4
+5RP6KX3xjRnpxsxJN,"rgba(119,66,137,1)",2018-09-28T01:31:47.694Z,false,1,,week-4-reading-reflections,public,Week 4 Reading Reflections,2018-12-09T18:44:59.123Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+TrJQJB7EADpNdMwvR,"rgb(134,234,137)",2018-09-28T05:17:01.273Z,false,1,,second-project10-19,public,Second Project(10. 19),2018-11-28T22:02:06.812Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+eN6a99oFWpBWMbXwf,"rgb(81,205,255)",2018-09-28T14:19:30.472Z,false,1,,week-4-assignments,public,Week 4 Assignments,2018-11-15T21:56:00.668Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+vk8jfdjomkqkKTwjk,"rgb(26,137,37)",2018-09-28T21:26:32.664Z,false,4,,week-4,public,Week 4,2018-09-28T21:26:41.976Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+pNoMPBD2GB99sLFFn,"rgba(189,234,151,1)",2018-09-28T22:21:17.785Z,false,5,,motivation-of-ol,public,motivation of OL,2018-09-28T22:48:00.347Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+iXMjkPcnXjLJuX4PS,"rgba(105,133,255,1)",2018-09-29T01:31:33.333Z,false,0,,reading,public,READING,2018-11-01T15:42:05.741Z,fKE2sTfNXxsDMxGg3,TuAmtRWKepNmGqP46
+XzTLLYNjXc8y2WuvC,"rgba(130,170,75,1)",2018-09-29T04:03:26.856Z,true,4,,week4-reflection,public,Week4-Reflection,2018-10-13T03:55:30.122Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+dxpQEfXPS7L2gwDMF,"rgba(174,213,153,1)",2018-09-29T07:10:00.997Z,false,2,,second-project-oct-19th,public,Second Project - Oct. 19th,2018-11-26T23:32:37.834Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+RYKGbarYgtTcMMajs,"rgb(122,180,134)",2018-09-29T18:37:34.839Z,false,3,,third-project-nov-16th,public,Third Project - Nov. 16th,2018-11-26T23:32:37.843Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+AtLoc6j2x99RZGWFr,"rgba(28,108,102,1)",2018-09-29T18:38:03.672Z,false,4,,fourth-project-dec11th,public,Fourth Project - Dec.11th,2018-11-26T23:32:37.813Z,5fDT25YHWKd98iP5q,ELPZs6vTqhGzzBAzq
+StrRxbxhvkTTdgKvS,"rgb(163,171,185)",2018-09-29T19:56:36.727Z,false,4,,week4,public,Week4,2018-09-29T19:56:43.345Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+YtcboJtP2EDKZ7nwT,"rgb(97,159,49)",2018-09-30T01:19:54.054Z,true,4,,week-4,public,Week 4,2018-11-09T06:38:23.009Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+xhrJsT7Fjj3vaJzSP,"rgb(3,16,178)",2018-09-30T21:25:03.789Z,false,4,,92818-assignments,public,9.28.18 Assignments,2018-11-08T13:55:32.490Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+bPsRySsMBxySaYCjo,"rgb(166,125,249)",2018-09-11T19:07:26.976Z,false,4,,week-2-sociology-info-context,public,Week 2 Sociology & Info Context,2018-12-04T04:20:10.972Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+QcXNzSFrTh3xRv8qy,"rgb(42,98,209)",2018-09-23T14:00:59.438Z,false,1,,week-4-courses,public,Week 4 Courses,2018-12-04T04:20:11.025Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+Fw3sASAtS2WvEsYo5,"rgb(24,208,172)",2018-10-01T15:32:44.757Z,false,5,,week-5-schools,public,Week 5 Schools,2018-12-04T04:20:11.089Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+wPD3P9iL2A9K8TifE,"rgb(169,92,142)",2018-10-02T19:17:09.155Z,false,5,,week-4,public,Week 4,2018-12-05T17:15:13.601Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+3eW9WDS8pZvjhu6rP,"rgb(7,216,101)",2018-10-02T21:22:18.189Z,true,5,,week-5-assignments,public,Week 5 Assignments,2018-10-18T03:20:18.867Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+7dryayrR6Hbf9CjjF,"rgb(13,156,46)",2018-10-05T03:34:43.493Z,false,3,,project1-a-learning-theory,public,Project1 A Learning Theory,2018-12-04T04:20:11.277Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+B53Jq5C2WQC9kTKTm,"rgb(143,60,96)",2018-10-05T16:14:13.935Z,true,5,,week-5,public,Week 5,2018-10-11T21:09:09.997Z,fKE2sTfNXxsDMxGg3,TuAmtRWKepNmGqP46
+HEDcmGCavvGeGuPBs,"rgba(65,117,5,1)",2018-10-05T17:09:08.783Z,false,5,,week-5-reading-reflections,public,Week 5 Reading Reflections,2018-12-09T18:44:59.134Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+9WEecMhRAQJMgPE58,"rgb(193,175,119)",2018-10-05T17:28:12.547Z,false,5,,week-5-10518-assignments,public,Week 5 (10.5.18) Assignments,2018-12-02T17:57:09.427Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+SzK3sBqJnAmYFk6jL,"rgba(128,170,82,1)",2018-10-06T01:42:24.822Z,true,5,,week5-reflection,public,Week5-Reflection,2018-10-13T03:56:12.165Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+6rXCzY735ZSbtahgp,"rgba(131,207,235,1)",2018-09-24T02:49:41.706Z,false,1,,second-project,public,Second Project,2018-11-20T03:23:06.701Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+LkA3JhqFt9iG5B4MM,"rgba(47,203,226,1)",2018-10-06T01:26:20.199Z,true,6,,week-5,public,Week 5,2018-10-27T00:14:47.708Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+zAKWtG49ia4a8ARe9,"rgb(121,100,167)",2018-10-07T17:40:38.863Z,false,5,,reading-reflections-week-5,public,Reading Reflections Week 5,2018-11-16T00:46:35.140Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+W9oKwKPgrDkdjWS82,"rgb(147,56,157)",2018-10-07T21:23:43.576Z,false,9,,reading-reflections-week-6,public,Reading Reflections Week 6,2018-11-16T00:46:35.153Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+wP425aM3sRzCWTPAp,"rgb(183,226,170)",2018-10-08T14:36:09.350Z,false,5,,10052018-assignment,public,10.05.2018 Assignment,2018-11-08T15:35:35.814Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+xHyoYPjkTBfsQctKN,"rgb(98,15,246)",2018-10-08T16:02:31.344Z,false,6,,week-6-101218-assignments,public,Week 6 (10.12.18) Assignments,2018-12-02T17:57:09.462Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+BZMy3pnNFmPmMFxCX,"rgba(194,96,133,1)",2018-10-08T23:27:41.337Z,false,6,,recorded-vs-live-music,public,recorded vs. live music,2018-10-09T00:04:21.697Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+nutCDTJqFbGYvudS3,"rgba(165,200,127,1)",2018-10-08T23:27:43.065Z,false,7,,university-or-vocational-school,public,university or vocational school?,2018-10-09T01:00:35.575Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+2T5LzFMpDi3FdeuB4,"rgb(32,51,187)",2018-10-09T05:46:44.698Z,false,5,,10518-assignments,public,10.5.18 Assignments,2018-11-08T13:55:32.640Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+LpTsRPRbpCXq4Ht9Z,"rgb(54,74,25)",2018-10-09T06:43:37.438Z,true,6,,---,public,,2018-10-09T06:43:47.159Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+JKZGF69tucXhweSDr,"rgb(170,21,215)",2018-10-09T19:26:03.304Z,false,5,,week-5,public,Week 5,2018-10-09T19:28:05.813Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+PK5k5na2qE7tS7AWc,"rgb(120,191,123)",2018-10-09T19:27:52.578Z,false,6,,week-6,public,Week 6,2018-10-09T19:27:59.714Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+6i6pqnL5Codxdspun,"rgb(79,209,111)",2018-10-10T03:55:55.102Z,false,7,,october-19-session,public,October 19 Session,2018-11-17T13:01:06.992Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+3QRRHSTv2t3NZRwPK,"rgba(113,200,220,1)",2018-10-11T21:00:53.458Z,false,8,,architecting-learning-environment,public,architecting learning environment,2018-11-16T00:20:13.317Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+jFHxbHoGA69dHK5vd,"rgba(133,79,39,1)",2018-10-12T19:17:07.809Z,false,9,,week-6-reading-reflections,public,Week 6 Reading Reflections,2018-12-09T18:44:59.145Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+dS2h8rziFosQgo2zY,"rgb(75,66,133)",2018-10-12T22:40:41.509Z,false,18,,week-6,public,Week 6,2018-12-05T17:15:13.691Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+2SW6p9e6RHQmT69r9,"rgb(62,43,7)",2018-10-13T01:38:10.184Z,false,1,,reflections-weeks-6-11,public,Reflections (Weeks 6 - 11),2018-12-02T16:49:11.262Z,muYH38EBAz2FHBK2L,6iGSbyGrmvSDQfLX5
+JCvHngh9RDNduFoph,"rgb(106,138,250)",2018-10-13T03:16:06.940Z,true,10,,week-6,public,Week 6,2018-10-27T00:16:39.040Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+6vYeDv6nzKrT5LETW,"rgb(113,3,143)",2018-10-13T03:17:13.733Z,true,5,,week-6,public,Week 6,2018-11-09T06:38:13.283Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+KouxHi9Jey9bBNfKy,"rgb(148,121,18)",2018-10-13T03:25:31.822Z,false,9,,101218-assignment,public,10.12.18 Assignment,2018-11-08T15:35:35.824Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+dYZ5mwhf2uwc5ayhZ,"rgba(123,180,68,1)",2018-10-13T03:50:50.403Z,false,1,,reflections,public,Reflections,2018-12-07T18:46:50.909Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+k3bQyJteXvQHvxJTs,"rgb(153,181,207)",2018-10-13T17:22:37.639Z,false,9,,week-6-assignments,public,Week 6 Assignments,2018-11-15T21:56:00.703Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+5auxFvi7R2NzftBoe,"rgb(119,166,31)",2018-10-13T19:59:56.317Z,false,6,,101218,public,10.12.18,2018-11-08T13:55:32.669Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+dXN36amMFWezBn2CN,"rgb(214,227,117)",2018-10-14T17:02:11.406Z,false,17,,project-2-active-reading,public,Project 2: Active Reading,2018-11-15T21:56:00.749Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+oB2bBpsdEoPL89YAC,"rgb(233,178,225)",2018-10-14T21:42:07.148Z,false,13,,week-7-assignments,public,Week 7 Assignments,2018-11-15T21:56:00.739Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+XCXzNDrGuicTEnS7q,"rgb(248,59,104)",2018-10-17T21:22:43.577Z,false,2,,reading-reflections-week-7,public,Reading Reflections Week 7,2018-11-16T00:46:35.163Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+u7v28L223xHwbJPyT,"rgb(134,62,249)",2018-10-18T01:41:22.435Z,false,7,,week-7-101718-assignments,public,Week 7 (10.17.18) Assignments,2018-12-02T17:57:09.499Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+EiEroEuherR3nKiee,"rgb(87,149,104)",2018-10-18T03:18:57.321Z,false,5,,week-5-assignments,public,Week 5 Assignments,2018-11-15T21:56:00.693Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+QkvpBDz5rfB7LsxKB,"rgb(175,107,204)",2018-10-18T03:48:33.257Z,false,7,,10182018,public,10.18.2018,2018-11-08T13:55:32.693Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+JSmyWGwzG9DE9E2aG,"rgb(254,134,60)",2018-10-15T15:32:49.806Z,false,9,,week-6-workplace,public,Week 6 Workplace,2018-12-04T04:20:11.109Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+zY9KqpbyLEzoNTEJB,"rgb(25,9,135)",2018-10-18T17:05:20.580Z,false,14,,week-7,public,Week 7,2018-12-05T17:15:13.681Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+kzmNwkTN48RPWXbxs,"rgba(221,147,123,1)",2018-10-18T18:13:09.646Z,false,9,,play-in-the-libraries,public,play in the libraries?,2018-10-19T00:37:10.360Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+tu5yrtEmxwGF4maTc,"rgb(216,16,73)",2018-10-18T15:30:10.265Z,false,2,,week-7-libraries,public,Week 7 Libraries,2018-12-04T04:20:11.120Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+cxbg2M2zPyZhxr9cw,"rgb(202,27,233)",2018-10-18T19:48:49.978Z,true,14,,week-7,public,Week 7,2018-10-27T00:18:13.118Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+mTfFNpxbZGDx9Jmm3,"rgb(133,137,236)",2018-10-18T20:05:48.570Z,true,2,,---,public,,2018-10-18T20:05:57.996Z,muYH38EBAz2FHBK2L,6iGSbyGrmvSDQfLX5
+CgQdRRAN8FSXZNL5p,"rgb(116,204,100)",2018-10-19T00:40:20.965Z,false,7,,week-7,public,Week 7,2018-10-19T00:40:28.004Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+2WWAijLynFaDTxjnp,"rgb(30,57,40)",2018-10-19T00:52:01.855Z,false,5,,week5,public,Week5,2018-11-15T05:33:56.909Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+9cY3swxkMYZfZxYuH,"rgba(27,77,134,1)",2018-10-19T03:17:56.024Z,false,13,,week-7-reading-reflections,public,Week 7 Reading Reflections,2018-12-09T18:44:59.166Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+3wJn2uuFKGXaHoAWC,"rgb(24,224,216)",2018-10-19T03:41:06.867Z,false,6,,assignment-101818,public,Assignment 10.18.18,2018-11-08T15:35:35.856Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+o9v52LNEEvAZhQ8Pi,"rgb(58,175,69)",2018-10-25T20:27:53.455Z,false,2,,third-project,public,Third Project,2018-11-26T20:28:30.295Z,YRMr5ejhtpqiEcoaL,CfPWoJwMZZZhzd5R4
+Bm9vzCbSR3TSQCHDc,"rgb(44,151,3)",2018-10-26T23:29:27.038Z,false,12,,week-8-102618-assignments,public,Week 8 (10.26.18) Assignments,2018-12-02T17:57:08.932Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+YxbkwpMmRKD5vTa46,"rgb(14,179,94)",2018-10-26T23:32:40.879Z,false,8,,project-1,public,Project 1,2018-12-02T17:57:08.700Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+mn3tiuzAtDy9Rj7go,"rgb(116,88,251)",2018-10-27T00:08:22.664Z,true,18,,week-8,public,Week 8,2018-10-27T00:22:15.471Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+q8fJ4GC36ciEZY35C,"rgb(246,92,248)",2018-10-27T00:12:35.247Z,true,3,,,public,,2018-10-27T00:12:44.817Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+QcHFdhD2YTLpRdTz9,"rgb(2,140,94)",2018-10-27T00:28:51.481Z,false,6,,reading-reflections-week-8,public,Reading Reflections Week 8,2018-11-16T00:46:35.184Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+yMmi5AzWfy9yqWRP5,"rgba(151,119,153,1)",2018-10-27T05:10:53.300Z,false,2,,week-8-reading-reflections,public,Week 8 Reading Reflections,2018-12-09T18:44:59.176Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+5xJgGETinjaxh9fdF,"rgb(47,145,92)",2018-10-29T21:53:46.768Z,false,2,,week-8-assignments,public,Week 8 Assignments,2018-11-15T21:56:00.789Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+B2Eg7LsY65euQFN8G,"rgb(179,171,127)",2018-10-29T21:54:03.209Z,false,6,,week-9-assignments,public,Week 9 Assignments,2018-11-15T21:56:00.899Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+3jEcfb4MdFFGajbhX,"rgb(61,79,36)",2018-10-29T21:55:16.959Z,false,18,,project-3-active-reading,public,Project 3: Active Reading,2018-11-15T21:56:01.216Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+uKnGEgJFzbZ5uX5vE,"rgb(45,37,107)",2018-10-31T23:09:20.049Z,false,2,,third-project-1116,public,Third Project (11.16),2018-11-28T22:02:07.002Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+8gMBRWZcrkQbiovY2,"rgb(8,31,98)",2018-10-24T00:50:19.746Z,false,6,,week-8-publishing-online,public,Week 8 Publishing Online,2018-12-04T04:20:11.143Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+CcZQq6De65Lg4Z49Y,"rgb(172,39,104)",2018-11-01T16:04:31.950Z,false,10,,110218-assignment,public,11.02.18 Assignment,2018-11-08T15:35:35.873Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+mh6NM7RPejyKAx4jM,"rgb(153,157,254)",2018-11-01T14:48:39.416Z,false,10,,week-9-adaptive-learning,public,Week 9 Adaptive Learning,2018-12-04T04:20:11.155Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+zkAyWEC3EQe9qAp5k,"rgba(205,117,30,1)",2018-10-22T20:35:11.343Z,false,3,,p3-reading-reflection,public,P3 - Reading Reflection,2018-11-02T21:53:31.419Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+TzZAAuPemQpNpQ4zi,"rgb(1,228,83)",2018-11-03T00:57:37.725Z,true,7,,week-10,public,Week 10,2018-11-11T19:41:28.034Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+tQCZ9qGvNqCQGNjXw,"rgb(97,151,30)",2018-11-03T01:03:03.611Z,false,9,,week-9-11218-assignments,public,Week 9 (11.2.18) Assignments,2018-12-02T17:57:09.440Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+uBSFXANgjHG7hALtB,"rgba(23,120,124,1)",2018-11-03T02:24:29.189Z,false,6,,week-9-reading-reflections,public,Week 9 Reading Reflections,2018-12-09T18:44:59.186Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+ujf3Lj64KhjHiLoSK,"rgb(4,48,43)",2018-11-05T23:09:55.869Z,false,10,,reading-reflections-week-9,public,Reading Reflections Week 9,2018-11-16T00:46:35.195Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+XDbHfwExXDWZ2NW2e,"rgb(216,161,236)",2018-11-06T00:28:25.250Z,false,8,,102618,public,10.26.18,2018-11-08T13:55:32.611Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+oXz3S2L2HFBx4Mzqu,"rgb(164,230,171)",2018-11-06T00:29:10.031Z,false,9,,11218,public,11.2.18,2018-11-08T13:55:32.650Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+Rewy2zRMSypHLzbw6,"rgb(8,148,51)",2018-11-06T17:26:27.839Z,false,10,,week-10-assignments,public,Week 10 Assignments,2018-11-15T21:56:01.070Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+uoKQXfmuLJf9fsxiG,"rgba(239,232,148,1)",2018-10-28T21:08:36.187Z,false,10,,content-creation-in-one-dimensional-society,public,content creation in one-dimensional society,2018-11-07T01:13:07.711Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+LMhMedKBk5aCFira5,"rgba(147,163,213,1)",2018-11-07T01:13:10.440Z,false,11,,adaptive-learning-technologies,public,adaptive learning technologies,2018-11-07T01:13:38.223Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+QxDu8nz9S3SokZDxz,"rgb(150,58,176)",2018-11-07T03:58:22.015Z,false,14,,week-10,public,Week 10,2018-12-04T04:20:11.168Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+82zBENcXgT62yjuNe,"rgb(135,43,134)",2018-11-07T13:28:37.953Z,false,3,,week-1-assignments,public,Week 1 Assignments,2018-11-15T21:56:01.227Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+cKhWcDqMhzNvXaiR6,"rgb(91,18,58)",2018-11-07T13:28:37.986Z,false,7,,week-2-assignments,public,Week 2 Assignments,2018-11-15T21:56:01.262Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+hvtbnwNjAbuZ4Wu8F,"rgb(179,190,103)",2018-11-07T13:28:51.493Z,false,11,,week-3-assignments,public,Week 3 Assignments,2018-11-15T21:56:01.272Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+yjdDkuXbMzBy8bPqK,"rgb(112,146,60)",2018-11-07T16:39:18.626Z,false,8,,week-8,public,Week 8,2018-11-07T16:39:27.927Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+5aLSGWK3mjSRbsWwN,"rgb(143,220,239)",2018-11-07T17:59:14.397Z,false,9,,week-9,public,Week 9,2018-11-07T17:59:23.043Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+zsp483fkKdomSxvpg,"rgb(15,73,165)",2018-11-07T22:20:32.067Z,false,10,,week-10,public,Week 10,2018-11-07T22:20:36.769Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+uC5EMFtXjPbb53oTW,"rgb(165,69,142)",2018-11-07T23:09:33.148Z,false,10,,week-8,public,Week 8,2018-12-05T17:15:13.671Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+AT6zRDS5RTZqp3iKZ,"rgb(94,18,94)",2018-11-08T15:25:49.973Z,false,7,,110818-assignment,public,11.08.18 Assignment,2018-11-08T15:35:35.916Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+b8LgyrfBXKvDp5N7s,"rgb(52,199,31)",2018-11-08T16:36:07.966Z,false,6,,week6,public,Week6,2018-11-08T16:36:13.431Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+JbCTsmTopqopy3JXY,"rgb(8,122,242)",2018-11-08T16:36:14.593Z,false,7,,week7,public,Week7,2018-11-08T16:36:19.247Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+WM5EveTBZwjwf43fT,"rgb(179,42,174)",2018-11-08T16:36:19.406Z,false,8,,week8,public,Week8,2018-11-08T16:36:22.664Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+43GDidgwnHFethAE4,"rgb(32,66,125)",2018-11-09T06:04:13.460Z,false,3,,week-8,public,Week 8,2018-11-10T01:57:54.450Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+WMwg7ngS3wQkzXuST,"rgba(217,83,79,1)",2018-09-11T03:39:15.464Z,false,1,,week-1-3-theory,public,Week 1-3 Theory,2018-11-10T01:57:54.431Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+gQrCkQ2y2yDkPK6eG,"rgba(195,161,45,1)",2018-10-05T23:52:31.414Z,false,2,,week-4-7-application,public,Week 4-7 Application,2018-11-10T01:57:54.440Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+yCqyygNZgrCkcFZ64,"rgb(138,171,132)",2018-11-09T06:42:40.175Z,false,7,,week-9,public,Week 9,2018-11-10T01:57:54.460Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+4Hz8PKsr8ABpdm5Cd,"rgb(22,182,241)",2018-11-10T01:57:47.711Z,false,11,,week-10,public,Week 10,2018-11-10T01:58:01.285Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+CciwnmHrQ8dw4fpvE,"rgb(34,144,183)",2018-11-10T03:23:32.810Z,false,10,,11918,public,11.9.18,2018-11-10T03:23:36.628Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+W8bbS2QC4jj9WqWgY,"rgb(232,93,59)",2018-11-10T03:37:01.031Z,false,10,,week-10-11918-assignments,public,Week 10 (11.9.18) Assignments,2018-12-02T17:57:09.479Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+S9iJgnkFDSPtmny74,"rgb(216,170,41)",2018-11-10T03:41:14.272Z,false,11,,project-2,public,Project 2,2018-12-02T17:57:09.509Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+ZxuvePpaKcw8m8dL7,"rgba(218,23,18,1)",2018-11-10T12:07:51.232Z,false,3,,project-2-the-online-learning-opportunity,public,Project 2: The Online Learning Opportunity,2018-11-17T13:01:06.784Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+6SnRXDTJ32LRmJtJg,"rgb(58,207,61)",2018-11-03T00:52:27.570Z,false,2,,third-project,public,Third Project,2018-11-20T03:23:06.729Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+gBT2afHcNzyhgvoYR,"rgb(218,216,38)",2018-09-15T03:13:59.492Z,false,1,,september-readings,public,September Readings,2018-11-12T02:29:22.323Z,sq7SHLAX34wXDZFek,ALqy4xMeEpD3XsYkk
+e5jmdt5P2Rq58LTfL,"rgb(198,9,211)",2018-11-12T02:21:56.949Z,false,2,,october-readings,public,October Readings,2018-11-12T02:29:15.450Z,sq7SHLAX34wXDZFek,ALqy4xMeEpD3XsYkk
+eJSEP8qzWRRFcaQ6F,"rgb(195,9,19)",2018-11-12T02:29:01.602Z,false,3,,november-readings,public,November Readings,2018-11-12T02:30:21.635Z,sq7SHLAX34wXDZFek,ALqy4xMeEpD3XsYkk
+XanG9zefDnj3vsZCd,"rgb(205,194,31)",2018-11-12T04:14:21.204Z,false,10,,week-10-networkmedia,public,Week 10 Network/Media,2018-11-14T00:25:56.118Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+KKwKywMA2MEsPCEER,"rgb(8,64,178)",2018-11-12T04:14:33.518Z,false,11,,week-11,public,Week 11,2018-11-12T04:14:38.001Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+6oi7bhzCSZPsL3Gom,"rgb(187,75,58)",2018-11-12T03:35:24.698Z,false,14,,reading-reflections-week-10,public,Reading Reflections Week 10,2018-11-16T00:46:35.204Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+xaQF9TZKxJGdqgmZQ,"rgb(241,223,176)",2018-11-12T04:14:16.188Z,false,9,,week-9-adaptive-learning,public,Week 9 Adaptive Learning,2018-11-14T00:26:11.149Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+x38qMmmPkbQePJAGn,"rgb(6,118,95)",2018-11-12T04:14:09.379Z,false,8,,week-8-publishing-online,public,Week 8 Publishing Online,2018-11-14T00:26:25.092Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+AkEMTxtjGWPWCwDqB,"rgb(249,249,101)",2018-11-12T04:13:57.068Z,false,6,,week-6-workplacescorporate-learning,public,Week 6 Workplaces/Corporate Learning,2018-11-14T00:48:03.879Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+iWPMWEWx2SeCzdqK9,"rgb(201,242,90)",2018-11-12T04:11:54.233Z,false,5,,week-5-virtual-school,public,Week 5 Virtual School,2018-11-14T01:00:32.048Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+uwxhGxPfJGxNTZNec,"rgb(200,246,255)",2018-11-12T04:14:03.006Z,false,7,,week-7-digital-library,public,Week 7 Digital Library,2018-11-14T01:00:43.817Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+HMwgz9XNEqNp8wGT9,"rgb(41,255,53)",2018-11-06T02:26:06.837Z,false,4,,week-4-online-courses,public,Week 4 Online Courses,2018-11-14T01:16:30.507Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+GwdhzbCr2WnFedtY9,"rgb(240,243,75)",2018-11-14T05:47:39.825Z,true,2,kjJYniGziGmt245X8,---,public,,2018-11-14T05:47:50.795Z,KzoNyARq9Ck6xHWQw,kjJYniGziGmt245X8
+ZJiAkrJGQbtaWYfBu,"rgb(8,123,49)",2018-11-14T20:23:09.471Z,false,2,,project-1,public,Project 1,2018-11-26T23:05:28.412Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+tSETkCeKMqHbhX5SC,"rgb(87,89,211)",2018-11-14T20:23:11.739Z,false,6,,project-2,public,Project 2,2018-11-26T23:05:28.422Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+vMwFq3Cox4E5BAGEm,"rgb(237,78,34)",2018-11-15T07:42:57.737Z,false,9,,week9,public,Week9,2018-11-15T07:43:02.598Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+sex5qZdPSCMuhz4wn,"rgb(138,132,225)",2018-11-15T17:12:05.823Z,false,10,,week10,public,Week10,2018-11-15T17:12:10.970Z,Enke95Wm2oP979qYz,MbCgpyEDGs5HJz2zZ
+rZf3NJFQpzeLG5oZp,"rgb(46,83,231)",2018-11-15T17:21:40.417Z,false,14,,week-11-assignments,public,Week 11 Assignments,2018-11-15T21:56:01.188Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+657sqdFM279ywoHTn,"rgba(129,218,168,1)",2018-11-16T00:20:18.147Z,false,12,,media-literacy-pedagogy,public,media literacy pedagogy,2018-11-16T00:31:01.866Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+DfobBYyqovLaNattZ,"rgb(208,42,236)",2018-11-16T00:46:24.383Z,false,18,,reading-reflection-week-11,public,Reading Reflection Week 11,2018-11-16T00:47:09.426Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+h4uZoF3C7SXWdTdL9,"rgb(234,121,211)",2018-11-16T01:59:13.898Z,false,15,,week-11-111518-assignments,public,Week 11 (11.15.18) Assignments,2018-12-02T17:57:09.518Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+ckXmmH9idHRn5JvXH,"rgb(120,248,116)",2018-11-16T04:21:49.948Z,false,11,,11162018-assignment,public,11.16.2018 Assignment,2018-11-16T04:22:09.418Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+tH4FayXPjftMzMs4Y,"rgb(98,106,203)",2018-11-16T04:49:24.446Z,false,14,,w11-reading-reflections,public,W11 Reading Reflections,2018-12-09T18:44:59.215Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+4BF3ctMFETXZnxTLW,"rgb(196,139,34)",2018-11-16T05:47:02.720Z,false,2,,week-11,public,Week 11,2018-12-05T17:15:13.651Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+LAPzi8ECQoxWFtAEi,"rgb(251,147,177)",2018-11-14T20:40:38.870Z,false,11,,week-11,public,Week 11,2018-11-16T05:55:12.617Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+NnTxN28CEAm7KeKyQ,"rgb(173,30,197)",2018-11-17T12:49:12.887Z,false,1,,project-3-the-uae,public,Project 3 - The UAE,2018-11-17T13:01:05.950Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+osCbYLQPWyrZn4Stf,"rgb(21,201,180)",2018-11-17T12:51:41.717Z,false,2,,project-4-the-gottesman-libraries,public,Project 4 - The Gottesman Libraries,2018-11-17T13:01:06.417Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+Npe6s22nSW4Yndbrk,"rgba(133,78,37,1)",2018-11-17T12:53:18.218Z,false,5,,november-16-session,public,November 16 Session,2018-11-17T13:01:06.075Z,sHzT6ngX98NEDhAP8,WgyfgPKf84bgXbrCZ
+rbAJyWkvESP8BJe54,"rgba(195,161,45,1)",2018-11-19T00:39:11.779Z,false,10,,w10-reading-reflections,public,W10 Reading Reflections,2018-12-09T18:44:59.196Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+zN3JdG8nwDMnrYb8R,"rgb(236,186,50)",2018-11-19T03:58:11.663Z,true,8,,project-1,public,Project 1,2018-11-19T04:12:47.718Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+dQzgp65bXb3wfAcW2,"rgb(217,210,34)",2018-11-19T03:59:21.296Z,true,5,,project-2,public,Project 2,2018-11-19T04:14:38.229Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+uhCDPcoMsKn2BrLEz,"rgb(100,109,116)",2018-11-19T04:00:50.581Z,false,6,,project-3,public,Project 3,2018-11-28T22:02:07.022Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+tRmCfhig4fjRtPCPL,"rgb(163,87,107)",2018-11-19T04:01:13.601Z,false,3,,project-4,public,Project 4,2018-11-28T22:02:07.031Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+jjoLSZyQHDNQfAMjL,"rgb(117,223,44)",2018-11-19T21:13:29.063Z,true,0,,imported-11192018,public,Imported 11/19/2018,2018-11-19T21:15:04.679Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+iduaM3FNsJmnPD3YL,"rgb(250,220,155)",2018-11-19T21:14:37.232Z,true,0,,imported-11192018,public,Imported 11/19/2018,2018-11-19T21:15:09.652Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+PdYyzLTqMfaqriiMi,"rgb(152,199,107)",2018-11-19T22:58:40.196Z,false,0,,about-me,public,About me,2018-12-02T22:15:22.386Z,KzoNyARq9Ck6xHWQw,mBM9fyYoCj4FDcwMh
+K4GMyfKTNatomMkke,"rgba(173,55,201,1)",2018-11-19T23:00:51.740Z,false,1,,first-project,public,First Project,2018-12-02T22:15:22.506Z,KzoNyARq9Ck6xHWQw,mBM9fyYoCj4FDcwMh
+9GpNCtfJwpyYbuw8A,"rgba(236,199,36,1)",2018-11-19T23:04:55.547Z,false,2,,second-project,public,Second Project,2018-12-02T22:15:23.138Z,KzoNyARq9Ck6xHWQw,mBM9fyYoCj4FDcwMh
+5j4jRqCdy5r72Ky3T,"rgb(10,103,165)",2018-11-19T23:09:05.588Z,false,6,,third-project,public,Third Project,2018-12-02T22:15:23.333Z,KzoNyARq9Ck6xHWQw,mBM9fyYoCj4FDcwMh
+PgTZTrmP6zFMyJDnM,"rgb(17,145,215)",2018-11-20T03:23:09.873Z,false,3,,final-project,public,Final Project,2018-11-20T03:23:30.423Z,H5EqdPANk2h4N7tTp,4RNqmFgiNjomeMAd2
+suNH3oacnSKshngkk,"rgb(53,1,225)",2018-11-25T05:27:12.460Z,true,0,,communication-with-the-team,public,Communication With the Team,2018-11-25T17:41:28.021Z,KtmxSfDBijtzjsJYm,gmcaexAmfrwJoSWy4
+xBKx4vMxcGrkPiZ3u,"rgb(47,85,170)",2018-11-25T05:42:24.578Z,true,1,,comprehensive-plan,public,Comprehensive Plan,2018-11-25T17:41:32.525Z,KtmxSfDBijtzjsJYm,gmcaexAmfrwJoSWy4
+ff3twt79D2gFwjG4z,"rgba(208,119,134,1)",2018-11-26T02:56:08.025Z,false,4,,class-projects,public,Class Projects,2018-11-26T02:58:50.232Z,tLWzZ8LERecHBEYfi,LCRss7udHuczYx65E
+FFermYb7Jq7TWx3Ed,"rgb(78,56,100)",2018-11-26T20:28:31.996Z,false,3,,fourth-project,public,Fourth Project,2018-11-26T20:28:38.724Z,YRMr5ejhtpqiEcoaL,CfPWoJwMZZZhzd5R4
+abN3YvzHctwNaNLJs,"rgb(242,20,196)",2018-11-26T22:57:19.402Z,false,14,,project-4,public,Project 4,2018-11-26T23:05:31.234Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+sNTzjfZWAfMMY8t5B,"rgba(155,166,37,1)",2018-11-26T23:03:31.850Z,false,4,,project-4-online-learning-opportunities-from-the-gottesman-libraries,public,Project 4: Online Learning Opportunities from the Gottesman Libraries,2018-11-26T23:15:47.406Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+HckKAebt7joL9qK3d,"rgb(96,20,106)",2018-11-26T23:04:43.572Z,false,10,,project-3,public,Project 3,2018-11-26T23:05:45.271Z,KaR4ZSQb52qi78HoP,Sr2xZgPwr439ZZYYA
+cFudzFTp97yFM24ar,"rgb(70,123,185)",2018-11-26T23:21:17.868Z,false,0,,team-members,public,Team members,2018-11-26T23:21:33.761Z,KzoNyARq9Ck6xHWQw,8BaFfg86i4hff5C6x
+F7SpFZGstq99QQ2FN,"rgb(4,42,171)",2018-11-26T23:27:25.710Z,false,5,,fourth-project,public,Fourth Project,2018-12-02T22:15:22.887Z,KzoNyARq9Ck6xHWQw,mBM9fyYoCj4FDcwMh
+oECodPf5b58WQ6CL3,"rgb(68,75,178)",2018-11-26T23:34:09.622Z,false,3,,project-1,public,Project 1,2018-12-09T18:44:59.225Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+wptwSXjqu2GL453Dr,"rgb(198,93,135)",2018-11-26T23:34:25.769Z,false,7,,project-2,public,Project 2,2018-12-09T18:44:59.235Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+8Ty6wdjyKyaTn2ioF,"rgba(193,201,55,1)",2018-11-26T23:34:31.753Z,false,11,,project-3,public,Project 3,2018-12-09T18:44:59.246Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+8qbNZXJuYZkoNPnPd,"rgba(119,66,137,1)",2018-11-26T23:34:36.959Z,false,15,,project-4,public,Project 4,2018-12-09T18:44:59.267Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+AyBpPJvN83omzMcuC,"rgb(20,128,71)",2018-09-07T22:02:08.059Z,false,3,,project-4-online-learning-opportunities-from-the-gottesman-libraries,public,Project 4: Online Learning Opportunities from the Gottesman libraries,2018-11-27T00:39:52.864Z,BMgHziq68YQHjyHS8,fb7GPmHRgnwMfXXqf
+hv9DMHSRHmwpHZbkM,"rgb(71,152,37)",2018-11-25T17:41:34.593Z,false,0,,documentation-link,public,Documentation Link,2018-11-27T01:14:51.991Z,KtmxSfDBijtzjsJYm,gmcaexAmfrwJoSWy4
+RLQYhbY7euSpzYuuf,"rgb(202,120,26)",2018-11-27T02:00:25.424Z,false,2,,project-4,public,Project 4,2018-11-27T02:10:53.143Z,muYH38EBAz2FHBK2L,6iGSbyGrmvSDQfLX5
+TTyCEdn2nmDjf3ZzE,"rgba(25,26,19,1)",2018-11-27T14:52:10.932Z,false,12,,project-4,public,Project 4,2018-11-27T14:52:40.336Z,DJ9vY7sdFFLxKMRK6,v6DWKtHSpdxc3gAuK
+BKn6a3xs64F82i3e4,"rgb(222,99,99)",2018-11-27T15:08:24.083Z,false,15,,project4-an-online-learning-opportunity,public,Project4 An Online Learning Opportunity,2018-12-04T04:20:11.484Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+amDZJ3EBE4f44knSq,"rgb(77,164,207)",2018-11-27T15:10:39.598Z,false,13,,project-4-team-purple,public,Project 4: team purple,2018-11-27T15:32:19.603Z,rMbP9kSwdw3Q87Fa7,u8ccEetDJbpFnM8cS
+nC4inBSkMKfJ8fuFH,"rgb(31,74,152)",2018-11-27T15:42:38.768Z,false,0,,email,public,Email,2018-12-02T18:01:03.682Z,KtmxSfDBijtzjsJYm,vMgbgMnLSbpKkGsZu
+YdoHsqtWmtAjnmTzF,"rgb(207,229,17)",2018-11-27T15:47:53.050Z,false,1,,video-meeting-on-google-hangouts,public,Video Meeting on Google Hangouts,2018-12-02T18:01:03.692Z,KtmxSfDBijtzjsJYm,vMgbgMnLSbpKkGsZu
+65QhYtEnhdqvdKHrt,"rgb(224,147,90)",2018-11-27T15:57:17.086Z,false,11,,project-4-documentation,public,Project 4 Documentation,2018-11-27T15:57:24.512Z,FHnjbB9kuE8yrcaiE,W6xf8ypDtqjRzPGZP
+rnmeaXvgcD7TpySbE,"rgb(155,228,16)",2018-11-27T16:56:09.622Z,false,4,,project-4,public,Project 4,2018-11-27T16:56:15.646Z,4EMMkd4vtihTuEZ9o,gQvtZmLcpiBooDrCg
+zxsPHvteXixdqbQvx,"rgb(235,189,0)",2018-11-27T17:39:51.840Z,false,12,,project-4,public,Project 4,2018-11-27T17:39:51.858Z,zXFnQwb6rdhSQWuGd,wa9fkhCXPgXL5Xca3
+FdEfJikGBYDNZ4ikC,"rgb(188,223,226)",2018-11-27T22:38:21.584Z,false,3,,project-4,public,Project 4,2018-11-27T22:38:25.743Z,8nDDuSkJHBZuXp8Mf,qMvJuk48atWs86Z2P
+C8eDrcrJFz8ipWiFQ,"rgb(3,127,135)",2018-11-27T22:47:59.163Z,false,1,,meeting-notes,public,Meeting Notes,2018-12-10T05:39:30.617Z,KzoNyARq9Ck6xHWQw,8BaFfg86i4hff5C6x
+T28ttEdG9ychLqJc9,"rgb(250,211,39)",2018-11-28T21:30:29.220Z,false,1,,week-5,public,Week 5,2018-12-05T17:15:13.590Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+qcKbXsiNv9s5NEoYz,"rgb(17,21,230)",2018-11-28T22:01:52.966Z,true,7,,final-paper,public,Final paper,2018-11-28T22:03:08.712Z,vQSXe2zz7G4khsgmu,ybLMPkKBpg9ihrXd6
+qTXjvbQYC9kpMQh4b,"rgb(130,214,20)",2018-12-02T17:56:03.349Z,false,16,,project-3,public,Project 3,2018-12-02T17:57:08.949Z,KtmxSfDBijtzjsJYm,vBwmcABpqnaEzfx6A
+EdfXStnx7ukiA62FZ,"rgb(197,221,210)",2018-12-02T17:58:11.372Z,false,3,,comprehensive-plan,public,Comprehensive Plan,2018-12-02T18:01:03.705Z,KtmxSfDBijtzjsJYm,vMgbgMnLSbpKkGsZu
+cFjA6ZQ5hgqjN5ugb,"rgb(226,221,25)",2018-12-02T18:01:05.382Z,false,2,,meeting,public,Meeting,2018-12-02T18:02:55.073Z,KtmxSfDBijtzjsJYm,vMgbgMnLSbpKkGsZu
+H2ogmQbw9Qakqc2jh,"rgb(162,135,202)",2018-12-02T22:11:38.635Z,false,2,,group-work,public,group work,2018-12-02T22:13:10.179Z,KzoNyARq9Ck6xHWQw,8BaFfg86i4hff5C6x
+g476gpTESeZ3LdHYL,"rgb(61,240,4)",2018-12-03T18:30:45.687Z,false,18,,week-11,public,Week 11,2018-12-04T04:20:11.192Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+mbmnHKJ8gEhMec8NZ,"rgb(70,95,78)",2018-12-03T18:41:34.952Z,false,7,,project-2-borrowed-forms,public,Project 2 Borrowed forms,2018-12-04T04:20:11.298Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+7QyTTgmLS7ZPBkAqn,"rgb(82,127,1)",2018-12-03T18:43:35.849Z,false,11,,project-3-emerging-forms,public,Project 3 Emerging forms,2018-12-04T04:20:11.320Z,naGTTkfNgE2NgAZd9,Xsi7gsQ9TzCsHBgA3
+n2yAqWGwJimkXtSzK,"rgb(129,38,55)",2018-12-04T04:43:39.050Z,false,2,,,public,,,kkLmXoFfnTqPXgGq6,NYcwSLypaMk2qbCcA
+ojjxHaywNdKBHHpwo,"rgb(195,67,29)",2018-12-05T17:15:05.982Z,false,6,,week-9,public,Week 9,2018-12-05T17:15:13.661Z,BJFWQo6gTbiGhreYF,QvTjjShixGBrnpjyN
+SvkoyrAgCdAEmyMPn,"rgb(69,208,244)",2018-12-06T20:35:12.357Z,false,12,,project-4,public,Project 4,2018-12-06T20:35:32.621Z,TaThRxpCqF73LZgra,s5FQ5Zuv7B8A8qDvu
+nidQ6pB4DR7Zu27Wm,"rgba(255,208,0,1)",2018-12-06T21:10:35.684Z,false,2,,project-4,public,Project 4,2018-12-07T18:46:53.888Z,ZyBb5SwtnGSy45fyD,LQpqBPKL2FXWjgR7v
+nrgRpAtqJKhisn5cz,"rgb(15,220,200)",2018-12-07T02:45:43.547Z,false,2,,project-4-contributions,public,Project 4 Contributions,2018-12-07T02:52:50.660Z,eYdjdDxtjCy6YRnWx,ZgJbvxsTihep9Bs9X
+B6zmzYTmTY825d3Yb,"rgb(0,243,121)",2018-12-04T22:17:19.008Z,false,8,,final-paper,public,Final Paper,2018-12-08T18:43:02.318Z,aaYcLwTazjj3DHDgb,4rWq54uPxJJpfDxMB
+7s5RBMkeLe8MCfuap,"rgb(118,82,33)",2018-12-09T18:44:53.702Z,true,16,,---,public,,2018-12-09T18:45:03.008Z,GFwf4gFb2SrTzgwnB,DfvqPYzvpvaomSe9M
+nfJfQdhpJy7apMF4A,"rgb(71,58,108)",2018-12-10T05:35:19.148Z,false,3,,powerpoint,public,Powerpoint,2018-12-10T05:35:32.783Z,KzoNyARq9Ck6xHWQw,8BaFfg86i4hff5C6x
